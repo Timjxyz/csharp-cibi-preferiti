@@ -13,6 +13,9 @@ for (; i < piatti.Length; i++)
 
 //Stampo il mio piatto preferito
 Console.WriteLine("Il mio piatto preferito è " + piatti[0]);
+
 //Stampo il piatto che preferisco di meno
 string last = piatti[piatti.Length - 1];
 Console.WriteLine("Il piatto che preferisco di meno " + last);
+
+
